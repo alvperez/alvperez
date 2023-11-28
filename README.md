@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences.<br><br>Currently, I'm focused on building accessible, human-centered products at Social-Bee gGmbH
+I am a dedicated software engineer with expertise in crafting outstanding digital experiences, occasionally delving into the realm of design.
+<br><br>At present, my primary focus is on developing inclusive, user-centric products within the dynamic environment of Social-Bee gGmbH.
 
 
 ## 🌐 Socials:
