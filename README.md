@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated software engineer with expertise in crafting outstanding digital experiences, occasionally delving into the realm of design.
+I am a dedicated software engineer and AI engineer with expertise in crafting outstanding digital experiences, occasionally delving into the realm of design.
 <br><br>At present, my primary focus is on developing inclusive, user-centric products within the dynamic environment of Social-Bee gGmbH.
 
 
